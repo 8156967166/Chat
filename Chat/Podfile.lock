@@ -1,0 +1,21 @@
+PODS:
+  - SJFrameSwift (0.1.0)
+
+DEPENDENCIES:
+  - SJFrameSwift (from `https://github.com/SJClass/SJFrameSwift.git`)
+
+EXTERNAL SOURCES:
+  SJFrameSwift:
+    :git: https://github.com/SJClass/SJFrameSwift.git
+
+CHECKOUT OPTIONS:
+  SJFrameSwift:
+    :commit: 7861b5bb1728c62ce417d64b1ed10aa87d152ff8
+    :git: https://github.com/SJClass/SJFrameSwift.git
+
+SPEC CHECKSUMS:
+  SJFrameSwift: d8a2b08d7074eb8d41046828d44a2e024c92b91e
+
+PODFILE CHECKSUM: f1a6d06bf5ca1b538abe15a09b825814ea6d7f13
+
+COCOAPODS: 1.11.3
